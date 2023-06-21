@@ -9,7 +9,7 @@ The smart contract aims to create a token system that can be used for various pu
 ## Getting Started
 
 ### Installation
-Copy and paste the code in IDEs that support Solidity. I highly recommend using Remix, a well-known online tool for developing smart contracts.
+- Copy and paste the code in IDEs that support Solidity. I highly recommend using Remix, a well-known online tool for developing smart contracts.
 
 ### Executing the Program
 - Compile the code (Make sure to match the compiler version according to the code)
